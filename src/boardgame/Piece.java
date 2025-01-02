@@ -11,8 +11,6 @@ public class Piece {
     protected Board getBoard() {
         return board;
     }
-    public void test(){
 
-    }
 
 }
